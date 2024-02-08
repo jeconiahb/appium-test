@@ -25,8 +25,6 @@ npm install appium
 - let it finish downloading
 - try to launch the emulator
 
-```
-```
 # Start appium & appium inspector
 - Start appium GUI
 - start server
@@ -47,7 +45,7 @@ npm install appium
 - Navigate through all the tabs
 - toggle dark mode : check if toggle is working but not assert the color ref: https://stackoverflow.com/questions/41585747/how-to-check-the-color-code-color-of-an-element-in-appium
 
-- 
+  
 # Quick Commands
 - run apppium
 
